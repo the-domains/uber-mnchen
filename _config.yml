@@ -1,0 +1,14 @@
+layout_spectrum: 0.1522498670965433
+typography_spectrum: 0.02819212037138641
+color:
+  brandStrength: 0.1810842822305858
+  lightness: 0.8089426027145237
+  saturation: 0.04768058843910694
+  rhythmicContrast: 0.6848368239589036
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: Uber München
