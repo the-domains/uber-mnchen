@@ -6,9 +6,13 @@ color:
   saturation: 0.04768058843910694
   rhythmicContrast: 0.6848368239589036
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: Uber München
+navigation:
+  - name: Du bist Mietwagenunternehmer?
+    id: 0a6532ba-7392-4bfe-9449-0e046f46ba73
+    type: content
