@@ -1,20 +1,19 @@
 ---
-datePublished: '2016-08-18T17:27:02.867Z'
+datePublished: '2016-08-18T17:31:51.239Z'
 sourcePath: _posts/2016-08-18-verdiene-geld-als-uber-partner.md
 author: []
 via: {}
-dateModified: '2016-08-18T17:27:02.523Z'
+dateModified: '2016-08-18T17:31:50.727Z'
 title: VERDIENE GELD ALS UBER PARTNER.
 publisher: {}
 description: >-
   Profitiere von der hohen Nachfrage nach Fahrten auf der Uber-Plattform. Starte
   ganz bequem mit Deinem eigenen Auto. Jetzt anmelden und schon bald die ersten
   Fahrten in Deiner Stadt anbieten und Geld verdienen.
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: verdiene-geld-als-uber-partner/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/006c535c-c6d8-4d8e-a5e1-ada75651d248.jpg)
