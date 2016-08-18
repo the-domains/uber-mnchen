@@ -16,3 +16,6 @@ navigation:
   - name: Du bist Mietwagenunternehmer?
     id: 0a6532ba-7392-4bfe-9449-0e046f46ba73
     type: content
+  - name: Mit Uber starten!
+    id: e2a0c1ea-0ca8-49c3-92ca-dd8568e4857e
+    type: content
